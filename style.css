@@ -1,0 +1,30 @@
+body {
+    background: #000;
+    color: #0f0;
+}
+
+h1 {
+    text-align: end;
+}
+
+img {
+    max-width: 200px;
+}
+
+#app {
+    display: flex;
+    justify-content: center;
+}
+
+#app div {
+    border: 2px solid #0f0;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    margin: 10px;
+}
+
+#wason {
+    max-width: 70px;
+    margin: 10px;
+}

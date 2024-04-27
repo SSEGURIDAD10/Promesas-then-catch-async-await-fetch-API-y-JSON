@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Super Mario Bros",
+        "year": 1985,
+        "genre": "Platform",
+        "stock": 0,
+        "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_SuperMarioBros.jpg"
+    },
+    {
+        "name": "The Legend of Zelda",
+        "year": 1986,
+        "genre": "Adventure",
+        "stock": 5,
+        "image": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/virtual_console_nintendo_3ds_7/SI_3DSVC_TheLegendOfZelda_image1600w.jpg"
+    },
+    {
+        "name": "Tetris",
+        "year": 1984,
+        "genre": "Puzzle",
+        "stock": 15,
+        "image": "https://img.etimg.com/thumb/msid-64905441,width-640,height-480,imgsize-194840,resizemode-4/tetris-1984.jpg"
+    }
+]
